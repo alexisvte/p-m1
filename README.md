@@ -1,4 +1,10 @@
-# But
+# p-m1
+
+_Optimization_ in python.
+
+## But
+
+<div style="text-align: justify">
 
 Développer une application permettant de résoudre un programme alimentaire dépendant de plusieurs contraintes et minimisant le coût :
 
@@ -10,7 +16,7 @@ Développer une application permettant de résoudre un programme alimentaire dé
 - Le calcium (en mg),
 - Les fibres (en g).
 
-# Documentation
+## Documentation
 
 On a une application `project` qu'on appelle avec :
 
@@ -30,7 +36,7 @@ Les étapes de l'application sont :
 - Restituer les aliments optimaux, sous la forme d'une phrase et d'un tableau, c'est à dire :
     - Les aliments permettants d'apporter les besoins nutritionnels nécessaires tout en minimisant le coût.
 
-Exemple :
+### Exemple :
 
 ```shell
 poetry run python -m project main
@@ -129,3 +135,5 @@ tests/test_transformation.py      34     11    68%
 --------------------------------------------------
 TOTAL                            207     43    79%
 ```
+
+</div>
