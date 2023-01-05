@@ -141,17 +141,7 @@ The meal will cost you 5.4 euros.
          We perfectly succeeded to optimize Marie's diet.
         
 
-Do you want to see more details? [y/N]:y
-                        Paniers de 100 g  Protéines  Lipides  Glucides    Kcal  Fer  Calcium  Fibres  Prix
-                                                                                                          
-Lait – crème fraîche                 0.7       15.3     25.7       2.1   240.4  0.0     48.6     0.0   0.6
-Lait – Gruyère                       0.5       15.6     16.9       0.2   216.3  0.1    529.6     0.0   0.6
-Lait – Beurre                        0.5        0.4     38.9       0.0   344.2  0.0     11.5     0.0   0.6
-Légume – Courge                      5.4        3.6      1.8      77.4   302.3  1.9     48.6    15.7   1.7
-Base – Haricots rouges               3.7       19.6      1.3      57.9   316.9  4.7     93.2    20.1   1.6
-Base – Haricots blancs               0.8        4.2      3.9      16.6   118.8  1.5     46.8     4.2   0.1
-Base – Semoule                       1.3       16.2      1.3      93.3   461.0  1.6     21.8     5.0   0.2
-Total                               12.9       75.0     90.0     247.5  2000.0  9.9    800.0    45.0   5.4
+Do you want to see more details? [y/N]:N
 ```
 
 In development:
