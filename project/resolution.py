@@ -176,16 +176,3 @@ def _resolution(donnees: Donnees):
         succes=resultat.success,
     )
     return resultats
-
-
-## Prospection :
-
-# Créer une classe Resultats se servant de la fonciton `_data_resolution` (interne). (en cours) √
-# Choisir entre les affichages de succès : (en cours) √
-#   - Dans `_data_resolution` (interne), √
-#   - Dans `Resultats.__post_init__` (interne), √
-#   - Dans `Resultats.__repr__` (défaut). √
-# Améliorer le `__repr__` de la classe `Résultats` :
-#   - Les bornes des contraintes,
-#   - La minimisation des coûts.
-# À regarder...
