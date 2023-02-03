@@ -226,32 +226,3 @@ def _data_aliments_show(
                     None
             tableau = aliments.loc[:, colonnes]
     return tableau
-
-
-# def data_aliments(
-#    fichier: str,
-#    separateur: str
-# ) -> pd.core.frame.DataFrame:
-#    return pd.read_csv(
-#        fichier,
-#        sep = separateur,
-#        index_col = 0# à regarder.
-#    )
-
-# @serde
-# class Aliments:
-#    pass
-
-## Prospection :
-
-# Remplacer la liste par un dictionnaire.
-# Remplacer `data_aliments` par une fonciton `data_aliments` pour prendre en charge plusieurs bases de données.
-# Remplacer la fonction `aliments_show` pour prendre en charge plusieurs bases de données.
-# Créer une classe Aliments se servant de la base de données `nom_fichier.ext` (personne) ou "Aliments.csv" (défaut).
-# Créer une application en ligne de  commande pour prendre en charge plusieurs bases de données (question) :
-#    - si oui, prend en charge la base de données `Aliments.csv` :
-#       • fichier = "Aliments.csv" (défaut),
-#       • separateur = ";" (défaut).
-#    - si non, demande une upload d'un fichier `nom_fichier.ext` et demande un séparateur `separateur` (question) :
-#       • fichier = `nom_fichier.ext` (personne),
-#       • separateur = `separateur` (personne).
