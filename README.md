@@ -43,6 +43,52 @@ poetry run python -m project main
 ```
 
 ```shell
+What is your name?: Mary
+
+     Hello Marie !
+    
+Do you want to see the foods that make up our database? [y/N]: N
+
+     To answer the following questions, please enter only integer values.
+
+     Example :
+
+     What are your protein needs (in g)?: 75
+    
+What are your protein needs (in g)?: 75
+What are your fat needs (in g)?: 90
+What are your carbohydrate needs (in g)?: 225
+What are your calorie needs (in kcal)?: 2000
+What are your iron needs (in mg)?: 9
+What are your calcium needs (in mg)?: 800
+What are your fiber needs (in g)?: 45
+
+         Marie's data:
+
+         Protein: 75g,
+         Lipids: 90 g,
+         Carbohydrates: 225 g,
+         Kcal: 2000 Kcal,
+         Iron: 9mg,
+         Calcium: 800mg,
+         Fibers: 45g.
+        
+You must eat 70 grams of crème fraîche which will cost you 0.6 euros.
+You must eat 50 grams of Gruyère which will cost you 0.6 euros.
+You must eat 50 grams of Beurre which will cost you 0.6 euros.
+You must eat 540 grams of Courge which will cost you 1.7 euros.
+You must eat 370 grams of Haricots rouges which will cost you 1.6 euros.
+You must eat 80 grams of Haricots blancs which will cost you 0.1 euros.
+You must eat 130 grams of Semoule which will cost you 0.2 euros.
+The meal will cost you 5.4 euros.
+
+         We perfectly succeeded to optimize Marie's diet.
+        
+
+Do you want to see more details? [y/N]:N
+```
+
+```shell
 Quel est votre nom ?: Marie        
 
     Bonjour Marie !
@@ -96,52 +142,6 @@ Base – Haricots rouges               3.7       19.6      1.3      57.9   316.9
 Base – Haricots blancs               0.8        4.2      3.9      16.6   118.8  1.5     46.8     4.2   0.1
 Base – Semoule                       1.3       16.2      1.3      93.3   461.0  1.6     21.8     5.0   0.2
 Total                               12.9       75.0     90.0     247.5  2000.0  9.9    800.0    45.0   5.4
-```
-
-```shell
-What is your name?: Mary
-
-     Hello Marie !
-    
-Do you want to see the foods that make up our database? [y/N]: N
-
-     To answer the following questions, please enter only integer values.
-
-     Example :
-
-     What are your protein needs (in g)?: 75
-    
-What are your protein needs (in g)?: 75
-What are your fat needs (in g)?: 90
-What are your carbohydrate needs (in g)?: 225
-What are your calorie needs (in kcal)?: 2000
-What are your iron needs (in mg)?: 9
-What are your calcium needs (in mg)?: 800
-What are your fiber needs (in g)?: 45
-
-         Marie's data:
-
-         Protein: 75g,
-         Lipids: 90 g,
-         Carbohydrates: 225 g,
-         Kcal: 2000 Kcal,
-         Iron: 9mg,
-         Calcium: 800mg,
-         Fibers: 45g.
-        
-You must eat 70 grams of crème fraîche which will cost you 0.6 euros.
-You must eat 50 grams of Gruyère which will cost you 0.6 euros.
-You must eat 50 grams of Beurre which will cost you 0.6 euros.
-You must eat 540 grams of Courge which will cost you 1.7 euros.
-You must eat 370 grams of Haricots rouges which will cost you 1.6 euros.
-You must eat 80 grams of Haricots blancs which will cost you 0.1 euros.
-You must eat 130 grams of Semoule which will cost you 0.2 euros.
-The meal will cost you 5.4 euros.
-
-         We perfectly succeeded to optimize Marie's diet.
-        
-
-Do you want to see more details? [y/N]:N
 ```
 
 In development:
