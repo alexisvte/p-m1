@@ -325,16 +325,3 @@ def _transformation_final(tableau: pd.core.frame.DataFrame) -> str:
         "Prix"
     ]} euros."""
     )
-
-
-# def _contraintes_logiques() -> bool:
-#    pass
-
-## Prospection :
-
-# Regarder si les contraintes sont logiques.
-# Renseigner quelles sont les contraintes qui sont logiques.
-# Transformer `_data_resolution` en tableau. (en cours) √
-# Scinder `_data_resolution_transformation` en classe ou en plusieurs fonctions. (en cours) √
-# Transformer `_data_resolution_transforamtion` en phrase.
-# À regarder...
