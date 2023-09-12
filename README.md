@@ -9,7 +9,7 @@ Code needs to be commented.
 
 - IMPROVEMENT...
 
-Create a shiny application in place of this command line application.
+Create a shiny application in place of the command line application.
 ```
 
 
