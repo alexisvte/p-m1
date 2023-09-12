@@ -1,12 +1,25 @@
 # p-m1
 
+```diff
++ WORK IS DONE.
+
+! COMMENT IN PROGRESS...
+
+Code needs to be commented.
+
+- IMPROVEMENT...
+
+Create a shiny application in place of this command line application.
+```
+
+
 _Optimization_ in python.
 
 ## Goal
 
 <div style="text-align: justify">
 
-Develop an application to solve a food program depending on several constraints and minimizing the cost:
+> Develop an application to solve a food program depending on several constraints and minimizing the cost:
 
 - Calories (in Kcal),
 - Proteins (in g),
@@ -18,7 +31,7 @@ Develop an application to solve a food program depending on several constraints 
 
 ## Documentation
 
-We have a `project` application that we call with:
+We have a `project` application that we call by typing:
 
 ```shell
 python3 -m project main
