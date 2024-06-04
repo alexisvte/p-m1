@@ -24,11 +24,8 @@ _Poetry project_.
 
 ! COMMENT IN PROGRESS...
 
-Code needs to be commented.
+- VISUAL IMPROVEMENT (WEB APPLICATION)...
 
-- IMPROVEMENT...
-
-Create a shiny application in place of the command line application.
 ```
 
 
